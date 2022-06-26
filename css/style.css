@@ -4,29 +4,32 @@
 */
 
 h1 {
-background-color: ;
-color: ;
-border: ;
-border-radius: ;
+  background-color: rgb(167, 134, 91);
+  color: rgb(254, 233, 201);
+  border: 5px double #965E2F;
+  border-radius: 15px;
 }
 
 body {
-background-color: ;
-}
-
-p {
-background-color: ;
-color: ;
-padding: ;
+  background-color: #F1E8D9;
 }
 
 img {
-border: ;
-border-radius: ;
+  border: 5px double rgb(167, 134, 91);
+  border-radius: 15px;
 }
 
-#NAMEOFDIVELEMENT {
-background-color: ;
-color: ;
-padding: ;
+#summary-text {
+  color: rgb(86, 126, 55);
+  padding: 5px;
+}
+
+#still-looking {
+  color: rgb(86, 126, 55);
+  padding: 5px;
+}
+
+button {
+  background-color: rgb(167, 134, 91);
+  color: rgb(254, 233, 201);
 }
