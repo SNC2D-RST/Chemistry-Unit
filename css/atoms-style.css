@@ -1,0 +1,40 @@
+/* Created by: Katie
+* Created on: June 2022
+* This CSS file defines the style for atoms.html
+*/
+
+h1 {
+  background-color: #006BBC;
+  color: #FF858A;
+  border: 5px double #404CBA;
+  border-radius: 15px;
+}
+
+body {
+  background-color: #E2A77D;
+}
+
+img {
+  border: 5px double #404CBA;
+  border-radius: 15px;
+}
+
+#diagrams {
+  color: rgb(54, 54, 54);
+  padding: 5px;
+}
+
+#subatomic-particles {
+  color: rgb(54, 54, 54);
+  padding: 5px;
+}
+
+#periodic-table {
+  color: rgb(54, 54, 54);
+  padding: 5px;
+}
+
+#conclusion {
+  color: rgb(54, 54, 54);
+  padding: 5px;
+}

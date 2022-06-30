@@ -1,0 +1,40 @@
+/* Created by: Katie
+* Created on: June 2022
+* This CSS file defines the style for compounds.html
+*/
+
+h1 {
+  background-color: #F03E36;
+  color: #AAC74B;
+  border: 5px double #40A535;
+  border-radius: 15px;
+}
+
+body {
+  background-color: #D3D1D1;
+}
+
+img {
+  border: 5px double #40A535;
+  border-radius: 15px;
+}
+
+#compounds-intro {
+  color: rgb(54, 54, 54);
+  padding: 5px;
+}
+
+#covalent-bonds {
+  color: rgb(54, 54, 54);
+  padding: 5px;
+}
+
+#ionic-bonds {
+  color: rgb(54, 54, 54);
+  padding: 5px;
+}
+
+#naming-compounds {
+  color: rgb(54, 54, 54);
+  padding: 5px;
+}
